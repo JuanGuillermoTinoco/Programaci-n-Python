@@ -1,3 +1,4 @@
+#Este es el ejercicio 2. Me equivoque cuando lo subi, el ejercicio 1 esta con el nombre laboratorio2.ej2.py
 #lABORATORIO. Trabajo en clase. Ejercicio 2. 29/Nov/2016
 #Juan Guillermo Urincho Tinoco
 
